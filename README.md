@@ -8,6 +8,9 @@ It is also managed button animation: http://www.google.com/design/spec/component
 
 ##How it works
 
+![Snackbars](https://github.com/onivas/LSnackbars/blob/master/lsnackbars.gif)
+
+
 #Import library
 <pre>
 import io.github.onivas.lsnackbars.LSnackbarsLibrary;
